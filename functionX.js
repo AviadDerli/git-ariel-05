@@ -1,3 +1,3 @@
 function calc(){
-    return 8*9;
+    return 2*7;
 }
